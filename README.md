@@ -9,6 +9,5 @@ Languages and Tools:<br>
 ⌨️ HTML5, CSS3<br>
 👨🏻‍💻 Learning: JavaScript, React, GitHub, Terminal
 
-<hr>
 Connect with me:<br>
 [Email](mailto:"rok@rok-horvat.si") |  [LinkedIn](https://www.linkedin.com/in/r0kh0r/) 
