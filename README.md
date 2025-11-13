@@ -10,4 +10,4 @@ Languages and Tools:<br>
 👨🏻‍💻 Learning: JavaScript, React, GitHub, Terminal
 
 Connect with me:<br>
-[Email](mailto:"rok@rok-horvat.si") |  [LinkedIn](https://www.linkedin.com/in/r0kh0r/) 
+[Email](mailto:"rok.hor@gmail.com") |  [LinkedIn](https://www.linkedin.com/in/r0kh0r/) 
