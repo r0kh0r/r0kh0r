@@ -1,6 +1,6 @@
 ### Hi there, I'm Rok 👋
 
-I try to advocate for enjoyable digital experiences.<br>
+Advocate for enjoyable digital experiences.<br>
 I am NN/g UX Certified Designer 👨🏼‍🎨, wannabe Developer 🐌, and Husband 🤵🏻.<br>
 I use GitHub to learn new things & develop my coding skills. 🚀<br>
 
